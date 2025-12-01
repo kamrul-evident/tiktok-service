@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+fastapi = "*"
+uvicorn = "*"
+sqlalchemy = "*"
+psycopg = "*"
+psycopg-binary = "*"
+celery = "*"
+orjson = "*"
+
+[dev-packages]
+alembic = "*"
+
+[requires]
+python_version = "3.12"

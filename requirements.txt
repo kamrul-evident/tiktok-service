@@ -1,0 +1,9 @@
+# alembic
+celery
+fastapi
+orjson
+psycopg
+psycopg-binary
+requests
+sqlalchemy
+uvicorn
