@@ -1,0 +1,2 @@
+from .product_publisher import publish_product_in_queue
+from .order_publisher import publish_order_in_queue
